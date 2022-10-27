@@ -28,7 +28,8 @@ In this paper, self-distillation was applied to produce a fast and effective SER
 
 In the runme.sh, all of the paths can be set and run corresponding python files via 
 
->sh runme.sh
+```
+sh runme.sh
 
 
 <!---

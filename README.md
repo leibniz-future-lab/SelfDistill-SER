@@ -2,9 +2,6 @@
 
 This is a Python and PyTorch code for the self-distillation framework in our paper: 
 
-<!--[Fast yet effective speech emotion recognition with self-distillation](https://arxiv.org/pdf/2210.14636.pdf).-->
-
-
 >Zhao Ren, Thanh Tam Nguyen, Yi Chang, and Björn W. Schuller. Fast yet effective speech emotion recognition with self-distillation. 5 pages. https://arxiv.org/abs/2210.14636
 
 ## Citation

@@ -22,9 +22,14 @@ This is a Python and PyTorch code for the self-distillation framework in our pap
 
 ## Abstract
 
-## Pre-processing
+In this paper, self-distillation was applied to produce a fast and effective SER model, by simultaneously fine-tuning wav2vec 2.0 and training its shallower versions.
 
-## Model Training
+## Config
+
+In the runme.sh, all of the paths can be set and run corresponding python files via 
+
+>sh runme.sh
+
 
 <!---
 ## Cite

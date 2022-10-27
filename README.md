@@ -2,16 +2,16 @@
 
 This is a Python and PyTorch code for the self-distillation framework in our paper: 
 
-<!--[Fast Yet Effective Speech Emotion Recognition with Self-distillation](https://arxiv.org/pdf/2210.14636.pdf).-->
+<!--[Fast yet effective speech emotion recognition with self-distillation](https://arxiv.org/pdf/2210.14636.pdf).-->
 
 
->Zhao Ren, Thanh Tam Nguyen, Yi Chang, and Björn W. Schuller. Fast Yet Effective Speech Emotion Recognition with Self-distillation. 5 pages. https://arxiv.org/abs/2210.14636
+>Zhao Ren, Thanh Tam Nguyen, Yi Chang, and Björn W. Schuller. Fast yet effective speech emotion recognition with self-distillation. 5 pages. https://arxiv.org/abs/2210.14636
 
 ## Citation
 
 ```
 @misc{ren2022fast,
-      title={Fast Yet Effective Speech Emotion Recognition with Self-distillation}, 
+      title={Fast yet effective speech emotion recognition with self-distillation}, 
       author={Zhao Ren and Thanh Tam Nguyen and Yi Chang and Björn W. Schuller},
       year={2022},
       eprint={2210.14636},
@@ -32,9 +32,3 @@ In the runme.sh, all of the paths can be set and run corresponding python files 
 sh runme.sh
 ```
 
-<!---
-## Cite
-If you use the code from this repositroy, please cite the following reference in your paper:
-
-[1] Zhao Ren, Thanh Tam Nguyen, Yi Chang, and Björn W. Schuller. "Fast Yet Effective Speech Emotion Recognition with Self-distillation", arXiv:2210.14636, 2022, 5 pages.
--->

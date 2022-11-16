@@ -1,13 +1,14 @@
 # Fast yet effective speech emotion recognition with self-distillation
-### SelfDistill-SER
 
 [![arXiv](https://img.shields.io/badge/arXiv-2210.14636-b31b1b.svg)](https://arxiv.org/abs/2210.14636)
+
+### SelfDistill-SER
 
 This is a Python and PyTorch code for the self-distillation framework in our paper: 
 
 >Zhao Ren, Thanh Tam Nguyen, Yi Chang, and Björn W. Schuller. Fast yet effective speech emotion recognition with self-distillation. https://arxiv.org/abs/2210.14636
 
-## Citation
+### Citation
 
 ```
 @misc{ren2022fast,
